@@ -2,7 +2,7 @@ version: "3.7"
 
 services:
   myapp:
-    image: chawla01nikita/niki20102193img
+    image: manojsingh20/mano20102258img
     ports:
       - "11011:8080"
     deploy:
